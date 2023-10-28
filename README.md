@@ -1,5 +1,6 @@
 # WebCamYoloCuda
 Object detection using the YOLO neural network and CUDA hardware and software architecture
+https://youtu.be/ZmsavPCiwLU
 
 An experiment was conducted on the use of CUDA and tensor kernels in problems of object detection and recognition.
 This example uses a pre-trained object detection network such as YOLO v3 trained on the COCO dataset.
